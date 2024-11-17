@@ -1,0 +1,12 @@
+let numero1 = 30
+let numero2 = 20
+
+print (numero1 + numero2)
+print (numero1 - numero2)
+
+let numero3 = 42
+let numero4 = 6
+
+
+print(numero3 + numero4)
+print(numero3 / numero4)
